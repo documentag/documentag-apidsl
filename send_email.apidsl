@@ -1,0 +1,11 @@
+#path.load("pdf_path_list.txt")
+#path.list("in/namecheap").split().letpdf.jpg().letimage.ocr("en").lettxt.date().path.append_to_file('date.txt')
+path.list("in/namecheap")
+split()
+letpdf.jpg()
+letimage.ocr("en")
+lettxt.date()
+merge('$split','$letpdf.jpg','$letimage.ocr','$lettxt.date')
+path.append_to_file('date.txt')
+#path.append_to_file('$split','$letpdf.jpg','$letimage.ocr','$lettxt.date')
+# Append to file all variables from stream output

@@ -39,3 +39,7 @@ apidsl --run "invoice.apidsl"
 ```bash
 apidsl -d 'run("invoice.apidsl")'
 ```
+
+```bash
+apidsl -d 'path.list("in/namecheap")'
+```
