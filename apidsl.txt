@@ -1,0 +1,4 @@
+"https://github.com/letpath/bash" "path"
+"https://github.com/lettxt/bash" "txt"
+"https://github.com/letpdf/bash" "pdf"
+"https://github.com/letimage/bash" "image"

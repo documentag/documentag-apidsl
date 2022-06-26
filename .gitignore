@@ -1,3 +1,10 @@
+in/
+readme.logs.txt
+.idea
+flatedit
+plainedit
+apifork
+apipackage
 # Logs
 logs
 *.log
@@ -102,3 +109,24 @@ dist
 
 # TernJS port file
 .tern-port
+.flatedit.logs.txt
+apimacro
+grabwhois
+reactphp
+apidsl
+plainedit
+apimacro
+client
+path
+whois
+func
+bash
+uri
+browser
+webpageshot
+txt
+apimacro
+cloudflare
+wordpress
+plesk.apidsl.cache/
+.apidsl.cache
